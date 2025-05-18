@@ -1,0 +1,6 @@
+huggingface_hub
+datasets
+transformers
+tqdm
+nltk
+collections
