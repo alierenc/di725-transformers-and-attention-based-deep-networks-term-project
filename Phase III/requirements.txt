@@ -1,0 +1,12 @@
+huggingface_hub
+transformers
+datasets
+torch
+tqdm
+google
+wandb
+peft
+bitsandbytes
+nltk
+collections
+json
